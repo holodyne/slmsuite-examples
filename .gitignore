@@ -21,6 +21,7 @@
 *.csv
 *.pickle
 *.h5
+!examples/simulated_setup.h5
 *.gif
 *.png
 
